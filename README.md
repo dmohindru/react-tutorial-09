@@ -7,3 +7,4 @@ This app demonstartes how to make use of axios to fetch data and store the conte
 - react-icons
 - faker-js
 - reduxjs/toolkit
+- react-redux
