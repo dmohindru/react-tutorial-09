@@ -8,3 +8,4 @@ This app demonstartes how to make use of axios to fetch data and store the conte
 - faker-js
 - reduxjs/toolkit
 - react-redux
+3. This branch show usage of thunks from reduxjs toolkit.
