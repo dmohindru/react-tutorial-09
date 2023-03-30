@@ -1,7 +1,30 @@
 {
-    "users": [
-        {"id": 1, "name": "Myra"}
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Lionel Swift",
+      "id": 2
+    },
+    {
+      "name": "Elena Legros",
+      "id": 3
+    },
+    {
+      "name": "Neil Erdman",
+      "id": 4
+    },
+    {
+      "name": "Carmen Kling",
+      "id": 5
+    },
+    {
+      "name": "Darrell Gulgowski",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
