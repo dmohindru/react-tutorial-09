@@ -1,6 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { addUser } from "../thunks/addUser";
 import { fetchUsers } from "../thunks/fetchUsers";
+import { removeUser } from "../thunks/removeUser";
 
 
 const usersSlice = createSlice({
@@ -42,6 +43,25 @@ const usersSlice = createSlice({
             state.data.push(action.payload);
         });
         builder.addCase(addUser.rejected, (state, action) => {
+            // Update our state object however appropriat
+            // to show the user that request was failed
+            state.isLoading = false;
+            state.error = action.error;
+        });
+        // Extra reducers for removeUser operation
+        builder.addCase(removeUser.pending, (state, action) => {
+            // Update our state object however appropriat
+            // to show the user what we are loading data
+            state.isLoading = true;
+        });
+        builder.addCase(removeUser.fulfilled, (state, action) => {
+            // Update our state object however appropriat
+            // to show the user that request for fulfilled
+            state.isLoading = false;
+            // FIX ME!!
+            console.log(action);
+        });
+        builder.addCase(removeUser.rejected, (state, action) => {
             // Update our state object however appropriat
             // to show the user that request was failed
             state.isLoading = false;
