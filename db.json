@@ -1,68 +1,28 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Lionel Swift",
-      "id": 2
-    },
-    {
-      "name": "Elena Legros",
-      "id": 3
-    },
-    {
       "name": "Neil Erdman",
       "id": 4
     },
     {
-      "name": "Carmen Kling",
+      "name": "Miranda Padberg III",
       "id": 5
     },
     {
-      "name": "Darrell Gulgowski",
+      "name": "Israel Jacobs DDS",
       "id": 6
     },
     {
-      "name": "Elijah Stehr",
+      "name": "Oscar Morar",
       "id": 7
     },
     {
-      "name": "Van Hodkiewicz",
+      "name": "Marcus Boyle",
       "id": 8
     },
     {
-      "name": "Bruce Bednar",
+      "name": "Ida Jast",
       "id": 9
-    },
-    {
-      "name": "Mrs. Kim Nitzsche PhD",
-      "id": 10
-    },
-    {
-      "name": "Ralph Hoeger",
-      "id": 11
-    },
-    {
-      "name": "Paulette Feil",
-      "id": 12
-    },
-    {
-      "name": "Curtis Kohler",
-      "id": 13
-    },
-    {
-      "name": "Ismael MacGyver",
-      "id": 14
-    },
-    {
-      "name": "Becky Crist",
-      "id": 15
-    },
-    {
-      "name": "Yolanda Nicolas",
-      "id": 16
     }
   ],
   "albums": [],
