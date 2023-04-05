@@ -8,5 +8,6 @@ This app demonstartes how to make use of axios to fetch data and store the conte
 - faker-js
 - reduxjs/toolkit
 - react-redux
-3. This branch show usage of thunks from reduxjs toolkit.
-4. Create and use Skeleton component. [Overview](https://www.udemy.com/course/react-redux/learn/lecture/34697342#content). [Video how to achive shimmer effect.](https://www.udemy.com/course/react-redux/learn/lecture/34697344#content)
+3. Show usage of thunks from reduxjs toolkit.
+4. Show usage of redux toolkit to fetch and updated data on external API server.
+5. Create and use Skeleton component. [Overview](https://www.udemy.com/course/react-redux/learn/lecture/34697342#content). [Video how to achive shimmer effect.](https://www.udemy.com/course/react-redux/learn/lecture/34697344#content)
