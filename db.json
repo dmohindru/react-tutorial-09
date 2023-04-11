@@ -25,6 +25,17 @@
       "id": 9
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 4
+    },
+    {
+      "userId": 4,
+      "title": "Rustic Cotton Keyboard",
+      "id": 11
+    }
+  ],
   "photos": []
 }
