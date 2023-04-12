@@ -14,6 +14,7 @@ export const store = configureStore({
     }
 });
 
+
 setupListeners(store.dispatch);
 
 export * from './thunks/fetchUsers';
