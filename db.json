@@ -27,16 +27,6 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 4
-    },
-    {
-      "userId": 4,
-      "title": "Rustic Cotton Keyboard",
-      "id": 11
-    },
-    {
       "userId": 4,
       "title": "Fantastic Cotton Computer",
       "id": 12
@@ -55,6 +45,21 @@
       "userId": 4,
       "title": "Generic Granite Mouse",
       "id": 15
+    },
+    {
+      "userId": 6,
+      "title": "Modern Concrete Mouse",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Practical Granite Tuna",
+      "id": 17
+    },
+    {
+      "userId": 4,
+      "title": "Refined Frozen Bike",
+      "id": 18
     }
   ],
   "photos": []
