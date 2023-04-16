@@ -27,39 +27,9 @@
   ],
   "albums": [
     {
-      "userId": 4,
-      "title": "Fantastic Cotton Computer",
-      "id": 12
-    },
-    {
-      "userId": 4,
-      "title": "Electronic Rubber Pizza",
-      "id": 13
-    },
-    {
-      "userId": 4,
-      "title": "Fantastic Concrete Hat",
-      "id": 14
-    },
-    {
-      "userId": 4,
-      "title": "Generic Granite Mouse",
-      "id": 15
-    },
-    {
       "userId": 6,
       "title": "Modern Concrete Mouse",
       "id": 16
-    },
-    {
-      "userId": 4,
-      "title": "Practical Granite Tuna",
-      "id": 17
-    },
-    {
-      "userId": 4,
-      "title": "Refined Frozen Bike",
-      "id": 18
     }
   ],
   "photos": []
